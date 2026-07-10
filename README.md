@@ -1,6 +1,6 @@
 <!-- Encabezado con estilo -->
 <h1 align="center"> Santiago Haberle </h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación y Magíster en Ciencia de Datos| Apasionado por IA y Big Data </h3>
+<h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación y Magíster en Ciencia de Datos </h3>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Conecta conmigo
+### Conecta conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-haberle-monsalve-115088297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:santiago.haberle@uf.uchile.cl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
